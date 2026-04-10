@@ -1,0 +1,23 @@
+index.html
+  1ae98128523de2f8 7-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.6",
+  "base_commit_sha": "ea75979743da99709a647758007b4b99d075f094",
+  "prompts": {
+    "1ae98128523de2f8": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "d9becbdc-54f4-4caa-933d-00c8cb9de76b",
+        "model": "auto-gemini-3"
+      },
+      "human_author": "David Hodge",
+      "messages": [],
+      "total_additions": 54,
+      "total_deletions": 0,
+      "accepted_lines": 281,
+      "overriden_lines": 0
+    }
+  }
+}
