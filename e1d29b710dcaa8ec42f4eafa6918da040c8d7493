@@ -1,0 +1,23 @@
+index.html
+  1ae98128523de2f8 37-39,44,46,49-50,54,58-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.6",
+  "base_commit_sha": "e1d29b710dcaa8ec42f4eafa6918da040c8d7493",
+  "prompts": {
+    "1ae98128523de2f8": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "d9becbdc-54f4-4caa-933d-00c8cb9de76b",
+        "model": "auto-gemini-3"
+      },
+      "human_author": "David Hodge",
+      "messages": [],
+      "total_additions": 62,
+      "total_deletions": 17,
+      "accepted_lines": 331,
+      "overriden_lines": 0
+    }
+  }
+}
