@@ -1,0 +1,23 @@
+index.html
+  dca0f63c26d0607c 4-360,363-574,576
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "973e64a4166b1108ed57853b391b616a6ab7064e",
+  "prompts": {
+    "dca0f63c26d0607c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "af5b057a-2ada-4c45-8934-9d244dc143d7",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "David Hodge",
+      "messages": [],
+      "total_additions": 570,
+      "total_deletions": 639,
+      "accepted_lines": 570,
+      "overriden_lines": 0
+    }
+  }
+}
